@@ -1,0 +1,6 @@
+*.history
+*.bin
+*.txt
+*.blif
+toolchain-icestorm/
+toolchain-icestorm.zip
